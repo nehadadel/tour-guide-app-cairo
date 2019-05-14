@@ -1,0 +1,58 @@
+<resources>
+    <!-- Title for the application.-->
+    <string name="app_name">Tour Guide App</string>
+    <!-- Category names of Museum -->
+    <string name="category_museums">Museum</string>
+    <string name="musuem1">Museum of Islamic Art</string>
+    <string name="musuem2">The Gayer Anderson Museum</string>
+    <string name="musuem3">The Egyptian Museum</string>
+    <string name="musuemPragraph1">Displaying over 10,000 articles dating back to the Islamic era in Egypt </string>
+    <string name="musuemPragraph2">The Gayer Anderson Museum in Cairo is a must-see on your exploration tour of Islamic Cairo. It consists of an amazing patchwork of Islamic styles and artefacts packed into two wonderful ancient residences: Beit el-Kiridiliya (1632) and Beit Amna Bent Salim (1540).</string>
+    <string name="musuemPragraph3">No Egypt tour is complete without a visit to the Egyptian Museum in Cairo. With over 120,000 artefacts</string>
+
+
+    <!-- Category names of Historical places -->
+    <string name="category_historical_places">Historical places</string>
+    <string name="historicalPlace1">Great Pyramids of Giza</string>
+    <string name="historicalPlace2">Saqqara Pyramid</string>
+    <string name="historicalPlace3">Khan Al-Khalili</string>
+    <string name="historicalPlace4">El Moez St</string>
+    <string name="historicalPlace5">Bab Al-Fotouh</string>
+    <string name="historicalPlace6"> Nilometer</string>
+    <string name="historicalPlace7">Bab Zuweila</string>
+
+    <string name="historicalParagraph1">The Great Pyramid of Giza is a defining symbol of Egypt and the last of the ancient Seven Wonders of the World</string>
+    <string name="historicalParagraph2">Saqqara is one of several other notable necropolis sites near Cairo that offer impressive sights and hold great archaeological significance. In fact, Saqqara may hold more interest to archaeologists than Giza. The huge site hosts burials dating from before the beginning of the Old Kingdom up through the Greek Period of Egyptian history.</string>
+    <string name="historicalParagraph3">No visit to Cairo is Complete without a stop at the Khan El-Khalili bazaar, where you will be transported back in time to an old Arab souk. Shop owners calling you to their stalls, the scent of spices, the hustle and bustle of trade, and the many beautiful objects that can purchased will have you lost among alleys for hours. Put your haggling skills to the test when buying statuettes, spices, souvenirs, silver jewellery, t-shirts, galabiyyas, belly dancing costumes, or anything for that matter.</string>
+    <string name="historicalParagraph4">It is one of the most amazing streets in Islamic Cairo it dates back to the Fatimid. to discover the Islamic civilization.
+You will be picked up in the late afternoon the explore El-Moez Street. It is one of the most amazing streets in Islamic Cairo it dates back to the Fatimid. Visit Al Moez Street is the best place to discover the Islamic civilization.</string>
+    <string name="historicalParagraph5">The rounded Bab Al Futah with its delicate carved stone arch and the square-towered Bab An Nasr were built in 1087 as the two main northern entrances to the walled Fatimid city of Al Qahira. Although they never repelled a military attack, until the French adapted them to their cannons, </string>
+    <string name="historicalParagraph6">An ancient instrument used to measure the waters of the Nile so Egyptian farmers would know whether to expect famine or flood.</string>
+    <string name="historicalParagraph7">Built in the 11th century, beautiful Bab Zuweila was an execution site during Mamluk times, and today is the only remaining southern gate of the medieval city of Al Qahira. </string>
+
+    <!-- Category names of national parks -->
+    <string name="category_national_parks">National parks</string>
+    <string name="garden1">International Park</string>
+    <string name="garden2">Aquarium Grotto Garden</string>
+    <string name="garden3">Gezira Island</string>
+    <string name="garden4">Japanese Garden</string>
+    <string name="garden5">Orman Garden</string>
+    <string name="garden6">Family Park</string>
+    <string name="garden7">Al-Azhar Park</string>
+    <string name="paragraph1">This park has International in its name because some of its flowers, trees, and animals originate from different countries around the world.</string>
+    <string name="paragraph2">was built in 1867 by Khedive Ismail, Unique for its architectural beauty, the garden’s formations are made of clay to look like fish gills</string>
+    <string name="paragraph3">Located in the Nile in Central Cairo, three bridges connect Gezira Island across the river. </string>
+    <string name="paragraph4">was built in 1917 by the Egyptian architect Zulfaqar Basha to represent cultures of the East. Full of fish ponds, hills, canals, and diverse trees the garden is most famous for its unique statues.</string>
+    <string name="paragraph5"> was built during Khedive Ismail’s rule in 1875, this garden used to host more than 150 types of flowers and over 500 kinds of rare plants.</string>
+    <string name="paragraph6">the park offers many ways to enjoy the beauty of nature as well as amuse children. Activities inside the park can be categorized into two groups: educational and entertaining</string>
+    <string name="paragraph7"> is located in the heart of historical Cairo, where the Citadel and Al Sultan Hassan Mosque surround it. Its position over a hill gives its visitors a magnificent view of Cairo</string>
+
+
+    <!-- Category names of Archaeological mosques -->
+    <string name="category_archaeological_mosques">Archaeological mosques</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
