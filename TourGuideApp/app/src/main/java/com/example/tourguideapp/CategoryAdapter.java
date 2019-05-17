@@ -12,10 +12,11 @@ import android.support.v4.app.FragmentManager;
 
 public class CategoryAdapter extends FragmentPagerAdapter {
 
+    
+
+ private Context mcontext;
     //title of fragment page
-
-    private String tabTitles[] = new String[]{"National Parks", "Mosques", "Historical Places", "Museums"};
-
+    private String tabTitles[];
 
     /**
      * Create a new {@link CategoryAdapter} object.
@@ -23,9 +24,15 @@ public class CategoryAdapter extends FragmentPagerAdapter {
      * @param fm is the fragment manager that will keep each fragment's state in the adapter
      *           across swipes.
      */
-    public CategoryAdapter(FragmentManager fm) {
+     public CategoryAdapter(FragmentManager fm, Context context) {
         super(fm);
+        mcontext=context;
+       tabTitles = new String[]{mcontext.getResources().getString(R.string.string_1),
+                    mcontext.getResources().getString(R.string.string_2),
+                    mcontext.getResources().getString(R.string.string_3),
+                    mcontext.getResources().getString(R.string.string_4)};
     }
+
 
     /**
      * Return the {@link Fragment} that should be displayed for the given page number.
