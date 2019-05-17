@@ -50,6 +50,11 @@ You will be picked up in the late afternoon the explore El-Moez Street. It is on
 
     <!-- Category names of Archaeological mosques -->
     <string name="category_archaeological_mosques">Archaeological mosques</string>
+        <!-- Strings on tabTitles array "categoryAdapter" -->
+    <string name="string_1" >National Parks</string>
+    <string name="string_2">Mosques</string>
+    <string name="string_3">Historical Places</string>
+    <string name="string_4">Museums</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
